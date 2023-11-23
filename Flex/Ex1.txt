@@ -1,0 +1,10 @@
+if else do
+
+zertyui
+
+12
+12.7 
+12E
+
+12.7E+6
+switch
